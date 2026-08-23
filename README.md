@@ -12,6 +12,8 @@ The system combines geolocation, domain state, persistence, map rendering, evolv
 > The production source code remains private.
 
 ---
+<img src="assets/hora-map-clusters.png" width="900" alt="HORA.city map interaction">
+
 
 ## What I built
 
