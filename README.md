@@ -17,6 +17,8 @@ The system combines geolocation, domain state, persistence, map rendering, evolv
   &nbsp;
   <img src="assets/hora-mobile-ui.png" width="220" alt="HORA.city mobile UI">
   &nbsp;
+    <img src="assets/hora-world.jpeg" width="220" alt="HORA.city mobile UI">
+  &nbsp;
   <img src="assets/hora-pattern-zoomout.png" width="220" alt="HORA.city zoomed-out pattern">
 </p>
 
