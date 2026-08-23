@@ -12,10 +12,15 @@ The system combines geolocation, domain state, persistence, map rendering, evolv
 > The production source code remains private.
 
 ---
-<img src="assets/hora-map-clusters.png" width="300" alt="HORA.city map interaction">
-<img src="assets/hora-mobile-ui.png" width="300" alt="HORA.city map interaction">
-<img src="assets/hora-patter-zoomouot.png" width="300" alt="HORA.city map interaction">
+<p align="center">
+  <img src="assets/hora-map-clusters.png" width="220" alt="HORA.city map clusters">
+  &nbsp;
+  <img src="assets/hora-mobile-ui.png" width="220" alt="HORA.city mobile UI">
+  &nbsp;
+  <img src="assets/hora-patterm-zoomouot.png" width="220" alt="HORA.city zoomed-out pattern">
+</p>
 
+---
 ## What I built
 
 HORA.city was conceived, designed, and built end-to-end by **Valéria dos Santos Reiser**.
